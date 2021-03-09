@@ -1,6 +1,7 @@
 # TIBCO Cloud Integration Sample to invoke an external SOAP service
 ## Synopsis
 This project is a sample of how to use TIBCO Cloud Integration to invoke an external SOAP service.
+Note: Authentication values such as tokens and usernames/passwords are dummy values and will need to be updated for the sample to deploy properly.
 
 ## Process Diagram
 The process diagram in TIBCO Business Studio - Cloud Edition contains three activities:
